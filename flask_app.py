@@ -15,7 +15,7 @@ my_type_role = """
 """
 
 my_instance_context = """
-    Meet Daniel Müller, 52, who is tackling obesity with a therapy plan that includes morning-to-noon intermittent fasting, 
+    Meet Jasmin Müller, 52, who is tackling obesity with a therapy plan that includes morning-to-noon intermittent fasting, 
     thrice-weekly 30-minute swims, and a switch to whole grain bread.
 """
 
